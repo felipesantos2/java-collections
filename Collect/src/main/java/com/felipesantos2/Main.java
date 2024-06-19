@@ -2,6 +2,8 @@ package com.felipesantos2;
 
 import java.util.*;
 
+// Consolas, 'Courier New', monospace
+
 public class Main {
     public static void main(String[] args) {
 
