@@ -15,12 +15,6 @@ public class Connect {
     }
 
     public void getConnection() {
-
-        try {
-
-        } catch(SQLException e) {
-            e.printStackTrace();
-        }
     }
 
     public void closeConnection() {
